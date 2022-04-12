@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Recruitment</name>
+   <tag></tag>
+   <elementGuidId>a3e92623-329c-42fc-818a-7dba83bcf86f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_recruitment_viewRecruitmentModule']/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_recruitment_viewRecruitmentModule > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>6a39bee3-4121-4a30-afeb-7650c78248de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recruitment</value>
+      <webElementGuid>545446d7-e6b8-4a5d-ab02-9a0274342a83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_recruitment_viewRecruitmentModule&quot;)/b[1]</value>
+      <webElementGuid>abaac2df-7d78-4bc2-948b-28b387bddc8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='menu_recruitment_viewRecruitmentModule']/b</value>
+      <webElementGuid>35271066-d7c8-413c-bc49-151579cfbb9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Projects'])[1]/following::b[1]</value>
+      <webElementGuid>cfa12100-0fc0-46ed-af67-68513c9021f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customers'])[1]/following::b[1]</value>
+      <webElementGuid>79d4c130-794a-4ce0-808b-6d782e850dc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Candidates'])[1]/preceding::b[1]</value>
+      <webElementGuid>1830b4e5-f1a8-48bd-871b-93fe5118d42a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vacancies'])[1]/preceding::b[1]</value>
+      <webElementGuid>c918883d-ab33-4880-9871-9260cc244218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Recruitment']/parent::*</value>
+      <webElementGuid>c5fa20c9-ca42-400d-a65d-d1fed551c7ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/b</value>
+      <webElementGuid>4cc746f6-ea43-47df-bc49-301d5365dfba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Recruitment' or . = 'Recruitment')]</value>
+      <webElementGuid>3724a73a-6f7a-45d7-a114-d517f9bb8716</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
